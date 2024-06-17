@@ -8,7 +8,6 @@ This project is a clone of the Nike website built using React, Tailwind CSS, and
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -67,27 +66,6 @@ You can check out the live demo of the Nike Clone Website [here](#).
     
     `npm run preview` 
     
-
-## Folder Structure
-
-bash
-
-
-nike-clone/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── ...
-├── tailwind.config.js
-├── vite.config.js
-├── package.json
-└── README.md
 
 
 ## Technologies Used
